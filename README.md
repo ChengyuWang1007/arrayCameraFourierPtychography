@@ -37,4 +37,15 @@ If you find the code useful in your research, please consider citing:
     publisher = {Optical Society of America}
     }
     
+    @article{wang2022snapshot,
+       author = {Wang, Chengyu and Hu, Minghao and Takashima, Yuzuru and Schulz, Timothy J and Brady, David J},
+        title = {Snapshot ptychography on array cameras},
+      journal = {Optics Express},
+         year = {2022},
+       number = {2},
+       volume = {30},
+        pages = {2585--2598},
+    publisher = {Optical Society of America}
+    }
+    
 
